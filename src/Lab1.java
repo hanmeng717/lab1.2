@@ -10,7 +10,7 @@ import java.util.Date;
 
 import java.util.IllegalFormatCodePointException;
 import java.util.Scanner;
-import java.util.function.DoubleToLongFunction;
+import java.util.function.DoubleToLongFunction;   
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
